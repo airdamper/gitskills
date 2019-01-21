@@ -1,1 +1,3 @@
 # gitskills
+
+in server pc
